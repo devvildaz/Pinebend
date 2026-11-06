@@ -1,0 +1,1 @@
+Passed edit-mode checks: one-blast shield, configured bullet budget, expiry boundaries, no stacking, repair cap, recovery reset. No gameplay simulation performed.

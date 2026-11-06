@@ -1,0 +1,1 @@
+Passed edit-mode protocol checks: input validation; eight-car combat snapshot round trip (5285 bytes); fragmented TCP reassembly; 96 ordered mixed snapshots/events; inbound/outbound frame limits. Loopback transport only; no game was launched and no friend/VPN connection was tested.

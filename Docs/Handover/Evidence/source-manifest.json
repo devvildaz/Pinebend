@@ -1,0 +1,979 @@
+{
+  "description": "Bot handbrake and conditional recovery compiled and built successfully. Other technical reports retain their prior execution dates; no gameplay test.",
+  "createdUtc": "2026-11-05T05:06:51.474Z",
+  "gitCommit": null,
+  "unity": "6000.6.8f1",
+  "protocol": "PB-RALLY/7-BALANCE",
+  "files": [
+    {
+      "path": "Assets/Pinebend/Art.meta",
+      "bytes": 172,
+      "modifiedUtc": "2026-11-05T01:30:42.930Z",
+      "sha256": "677a8c7734e41000c616a314abbefab45f77390c64a892ead821dd455708da68"
+    },
+    {
+      "path": "Assets/Pinebend/Art/147DC3.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.097Z",
+      "sha256": "33be87ccbd97164a00769f550b8511c23bf95ab945ed8958b705d35970221e97"
+    },
+    {
+      "path": "Assets/Pinebend/Art/185582.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.678Z",
+      "sha256": "d99c793faedb43dd7876b6c0df4b0b9c9742710a40db145552865b7814da7f4d"
+    },
+    {
+      "path": "Assets/Pinebend/Art/213445.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.634Z",
+      "sha256": "5614ba7b4ba81ea6406fa39f11b0713debca9306a59d6a7418ff415b0e2915ee"
+    },
+    {
+      "path": "Assets/Pinebend/Art/223C50.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.186Z",
+      "sha256": "1ec01320e8c7b1423a173744715b7a275affc2b1d26e09b2028fe2199b64baf3"
+    },
+    {
+      "path": "Assets/Pinebend/Art/242D38.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.367Z",
+      "sha256": "ed81ab8766e77f8e55b439ebde4dff984a485f23f1e89615f0348394d880e3ca"
+    },
+    {
+      "path": "Assets/Pinebend/Art/508941.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.797Z",
+      "sha256": "69016a0d006593e5681ab588072a593bc698af825ced7d86cf748dd216ab6b97"
+    },
+    {
+      "path": "Assets/Pinebend/Art/689942.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.841Z",
+      "sha256": "5351c52499c7f611585c1159d69f3a994a3a5b230e3681c44055b337c0bae2ad"
+    },
+    {
+      "path": "Assets/Pinebend/Art/84583C.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.753Z",
+      "sha256": "7225518afd6c92ad62cc0fa96465f0de06d1c9f28f911ff3d0cdb0b68d564f29"
+    },
+    {
+      "path": "Assets/Pinebend/Art/849297.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T03:03:40.147Z",
+      "sha256": "abd616604ac302704aea1ce530bd62ef33700544d93dad529fe2d5cf26bfbeef"
+    },
+    {
+      "path": "Assets/Pinebend/Art/84AC70.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.898Z",
+      "sha256": "101c70345a24bbe6a8a26abf4702cdbedaa1f6b2bf15f548b52814f4a1ee5c11"
+    },
+    {
+      "path": "Assets/Pinebend/Art/9ABB53.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.217Z",
+      "sha256": "038e7780d2b654a1388a49a51448e65a9c64d4e7a0a9ca3e3a816116f4345bb4"
+    },
+    {
+      "path": "Assets/Pinebend/Art/ADB9BD.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.416Z",
+      "sha256": "b6e8a0f49faef4f434823a34810f06b8723cf9fb4c6846c29e1bdebfd3705750"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Apricot gravel.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.274Z",
+      "sha256": "3d509ebd1667237c526f59ef945414f4dea587948e6cf78e48dbd9394aa7d58c"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Chassis floor.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T03:03:39.877Z",
+      "sha256": "32e383cdb554bc71c11923b049dff501d36db960721f323c362702258c8a9eba"
+    },
+    {
+      "path": "Assets/Pinebend/Art/DD5242.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.500Z",
+      "sha256": "9f0dee899955159c2af94d60e6b2bddd01843414c6fea65ffe3e30dacd57b78c"
+    },
+    {
+      "path": "Assets/Pinebend/Art/E9AF73.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.318Z",
+      "sha256": "11d6e60dd762af05d1ca3def0bac6f4465fb550432d451302ec8da4db35dc154"
+    },
+    {
+      "path": "Assets/Pinebend/Art/F49320.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.998Z",
+      "sha256": "3b9b1a6d32d40a0fe228f930cb61a5f0ff734bb579c1962b3d1586b40e8845f3"
+    },
+    {
+      "path": "Assets/Pinebend/Art/FA4F3D.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.321Z",
+      "sha256": "6b210f051d41d5ceb71b9226d3b5f747373432efb9a869b211ec7eaa97618f21"
+    },
+    {
+      "path": "Assets/Pinebend/Art/FF9B24.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.277Z",
+      "sha256": "19a1479f8fd65ea12ae08fa6e64913e5f714c97a63325544cb937ab2bde0d722"
+    },
+    {
+      "path": "Assets/Pinebend/Art/FFF3D7.mat.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.405Z",
+      "sha256": "0e2771640fcad2686f1d3671e232600d196dc3d6bff30ce120912a0f3f4d3d85"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Ivory curb -1.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.361Z",
+      "sha256": "c998d64835d23516d28a9c858981412e6afc34a1f185bddf6c43466e49d8f666"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Ivory curb 1.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.545Z",
+      "sha256": "35116d1ae7d7e1e50392e192e76323ddfdce086afccc1ac97ca73eb26aca1039"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Lower valance.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.949Z",
+      "sha256": "9a7de2286781ef653a0f083618835601e4cbe6b0de84122595939644bf9df36b"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Rally blue body.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.048Z",
+      "sha256": "2c6d91269703a5b4db55c0fb96a8af3941c802150fe6f4a2a50ca08624dbdc4e"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Seven sided fir.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.149Z",
+      "sha256": "e1a103e905cee28892789e6ba6e1f927206bc8199037eaa0e98cb3ff83d61a54"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Smoked glass.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.142Z",
+      "sha256": "436ccf9eb8be9e4a9b8cfa9b81e1288f1e6983c190d11b3f34411aac1266631e"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Tangerine roof.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:44.232Z",
+      "sha256": "958c6e426f54cbfc2c53fb28dcaa71f1794f9d225ba073289576287e7ae64313"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Vermilion curb -1.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.452Z",
+      "sha256": "434fcc377621e79fb2d0e4f180755cc2440b2f0d31fa8319b8518c8d6c28f615"
+    },
+    {
+      "path": "Assets/Pinebend/Art/Vermilion curb 1.asset.meta",
+      "bytes": 188,
+      "modifiedUtc": "2026-11-05T01:30:43.589Z",
+      "sha256": "e4628191807d351d9ced6897b4b0c1c404fac9525846300c5dade3e3cb879de4"
+    },
+    {
+      "path": "Assets/Pinebend/CarPowerFeedback.cs",
+      "bytes": 2664,
+      "modifiedUtc": "2026-11-05T03:53:54.373Z",
+      "sha256": "fdf272dd54a1f7a50d26726fc5ab8d4ab8723e0827a5d570dd5e0849c17fb5eb"
+    },
+    {
+      "path": "Assets/Pinebend/CarPowerFeedback.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:53:54.649Z",
+      "sha256": "d6f7c2d14641f60c39ccad3686e1bff2d9fb9713b49bb38b52e07da58c2e2bad"
+    },
+    {
+      "path": "Assets/Pinebend/CarPowerState.cs",
+      "bytes": 1624,
+      "modifiedUtc": "2026-11-05T04:44:47.285Z",
+      "sha256": "540f9bd8a29c31614a9af6982311c84b97e93f632bde947779c14e8ea8f8856c"
+    },
+    {
+      "path": "Assets/Pinebend/CarPowerState.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:53:54.649Z",
+      "sha256": "01ee9c343609d715008b5a59f714695223f87ad6260c71bf536d1d17274ae968"
+    },
+    {
+      "path": "Assets/Pinebend/CircuitMap.cs",
+      "bytes": 5169,
+      "modifiedUtc": "2026-11-05T03:28:14.000Z",
+      "sha256": "6169727f6bc3ee89257d016cc2681f3f735fa8aac15f54f57bba74479b61015d"
+    },
+    {
+      "path": "Assets/Pinebend/CircuitMap.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:56:12.797Z",
+      "sha256": "1c27693894e6bfae07b4637af9ca369cf8959c1d2c8f6481338e6f170406c28a"
+    },
+    {
+      "path": "Assets/Pinebend/CountermeasureBurst.cs",
+      "bytes": 3321,
+      "modifiedUtc": "2026-11-05T04:30:00.333Z",
+      "sha256": "6e52e0cf5249d744dbf15ade29ecf2476a339074824a1fd7e32e93a598b737d5"
+    },
+    {
+      "path": "Assets/Pinebend/CountermeasureBurst.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T04:27:39.894Z",
+      "sha256": "2ca459a48cbb1de8cd8ec63dcb8ed733ad80b0575c8e811b63c6b98e07de4fd4"
+    },
+    {
+      "path": "Assets/Pinebend/Editor.meta",
+      "bytes": 172,
+      "modifiedUtc": "2026-11-05T01:30:14.269Z",
+      "sha256": "801d3062490458f75ee82defee14cc5cf8af0ebef10c95fadee4b1e544455cb6"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/CarPowerCheck.cs",
+      "bytes": 2065,
+      "modifiedUtc": "2026-11-05T04:44:47.287Z",
+      "sha256": "7a2997ce05e15529af3cc683a9cbb096d9cb1ea80806b615d589fbf033ecf5fc"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/CarPowerCheck.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:54:48.274Z",
+      "sha256": "955370b3e3e2b7a2d21a4aafd9464f4ea03a594fc3f8ff7d3f73650b251d8690"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/CircuitBuilder.cs",
+      "bytes": 11573,
+      "modifiedUtc": "2026-11-05T03:03:24.392Z",
+      "sha256": "8a443a33c090535e0241040122bb95af2ccdb01b9cf6ee71cfc0023e597e23cd"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/CircuitBuilder.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:30:13.179Z",
+      "sha256": "a4f66162cfdf97e6177d2b056b4660823ce6dda151e12511dd95594b2c220876"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/CircuitGenerationCheck.cs",
+      "bytes": 4220,
+      "modifiedUtc": "2026-11-05T03:28:14.052Z",
+      "sha256": "8212b0d48d2df1d5badebd6fd3805b0f8f725b0cce3125190fe63385b1007e39"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/CircuitGenerationCheck.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:12:18.803Z",
+      "sha256": "6255622a9025a12a89892e3b830ec1fadb4ec6553ab386093715b9eadd7adf14"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/GameplayBalanceCheck.cs",
+      "bytes": 3520,
+      "modifiedUtc": "2026-11-05T04:44:47.338Z",
+      "sha256": "35c8f695f722f8ed361fc97c37b6bb4bd9db4a8be9e1ae62e5c7100f85ebb3ed"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/GameplayBalanceCheck.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T04:28:43.546Z",
+      "sha256": "4191fcbbfc9f3fcd86060d6afc93a8b3d66792fb9229c0a717e6281f2524edb3"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/MenuPreviewCheck.cs",
+      "bytes": 1541,
+      "modifiedUtc": "2026-11-05T03:29:32.647Z",
+      "sha256": "42e97795bbccdbd0d216f24d83510fba08226a07c0429036c30b4658c6b18b5a"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/MenuPreviewCheck.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:29:32.792Z",
+      "sha256": "893027bbd34d5a84f48dd90f1671664a8b79b301a497c7d8b598f1a93b16e728"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/PeerNetworkCheck.cs",
+      "bytes": 4491,
+      "modifiedUtc": "2026-11-05T04:14:26.706Z",
+      "sha256": "df0522c9932ac79f5af3a129e28d6c4eaac06fd1b2bebd7e81563b08511346af"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/PeerNetworkCheck.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T04:14:28.361Z",
+      "sha256": "a5356994498ed4c60a5930b4e09edb7a030530cae9ac2db0f2989255a6ad7930"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/RallyGrid.cs",
+      "bytes": 1719,
+      "modifiedUtc": "2026-11-05T02:23:33.205Z",
+      "sha256": "48ff5532393f6aed4e9efb1f5eddee3e14671355dfeb44aa0ca2ae5dc905e253"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/RallyGrid.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:53:42.673Z",
+      "sha256": "0fbb7e1275ee05ca631b14e56bc69d54d36433926cd82146c199590ea22568b4"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/StartingGridCheck.cs",
+      "bytes": 2403,
+      "modifiedUtc": "2026-11-05T03:41:24.613Z",
+      "sha256": "05fa5863d2c1cce2b0ea4183b5da0b04c5518b9293c8503147a413f83b5e8144"
+    },
+    {
+      "path": "Assets/Pinebend/Editor/StartingGridCheck.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:41:26.080Z",
+      "sha256": "16cbc4fec43225c52579a75edf039d3a63361bce9a4b3c3d9d9294db782c023d"
+    },
+    {
+      "path": "Assets/Pinebend/GameplayBalance.cs",
+      "bytes": 2306,
+      "modifiedUtc": "2026-11-05T04:26:28.671Z",
+      "sha256": "6a383a75161c4646b80dc13a30c4adf38a90611584e8590a4944f0b4ea8871c9"
+    },
+    {
+      "path": "Assets/Pinebend/GameplayBalance.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T04:27:39.894Z",
+      "sha256": "12ff7576d84e23ac3921d6940beeb9c03f6ee7aa14abe0f1eaa2a1291f03e13d"
+    },
+    {
+      "path": "Assets/Pinebend/MainMenu.unity",
+      "bytes": 11503,
+      "modifiedUtc": "2026-11-05T02:34:35.175Z",
+      "sha256": "abf623d1c5ef1f371baf1c0127703f2c102be378087a5d46b416b212fa734a81"
+    },
+    {
+      "path": "Assets/Pinebend/MainMenu.unity.meta",
+      "bytes": 155,
+      "modifiedUtc": "2026-11-05T02:34:35.176Z",
+      "sha256": "393e7c0e8bf9e942c29b721b998be2c6f2a78966114ee51eefba24c9aa6edf86"
+    },
+    {
+      "path": "Assets/Pinebend/Network.meta",
+      "bytes": 172,
+      "modifiedUtc": "2026-11-05T02:44:53.794Z",
+      "sha256": "e1b38f06509f2c643addd6c9d3ecb041aeec6a7ba65ccee452aaf34a9f2d3781"
+    },
+    {
+      "path": "Assets/Pinebend/Network/PeerLink.cs",
+      "bytes": 3780,
+      "modifiedUtc": "2026-11-05T04:18:50.137Z",
+      "sha256": "9baf515deef2b44abe225ff786f88d33bdf38503d18573289cba3bd879c3b57e"
+    },
+    {
+      "path": "Assets/Pinebend/Network/PeerLink.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:44:52.691Z",
+      "sha256": "4092089b9a1dbd99f85bd14fe6d1abd280a308c2e954cf3765f113e5419ac378"
+    },
+    {
+      "path": "Assets/Pinebend/Network/PeerRace.cs",
+      "bytes": 14499,
+      "modifiedUtc": "2026-11-05T04:18:50.137Z",
+      "sha256": "20b4e8c55f2fd9556382dfb124ac145e60317b91af177c9966a86bcd7e02983d"
+    },
+    {
+      "path": "Assets/Pinebend/Network/PeerRace.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:44:52.691Z",
+      "sha256": "aa46c1003c522d1a7a471512102920010c7e7a9a68c2ecf6f57ea86c0e34613e"
+    },
+    {
+      "path": "Assets/Pinebend/Network/RaceProtocol.cs",
+      "bytes": 1824,
+      "modifiedUtc": "2026-11-05T04:44:47.287Z",
+      "sha256": "e18b50ba9b42c736b07bd2d316a17d5c95f90bacdd25bf1b6b054a8acb1e4a4d"
+    },
+    {
+      "path": "Assets/Pinebend/Network/RaceProtocol.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T04:09:32.319Z",
+      "sha256": "c828124266bbada0b73560da03f6d96e5fb95b13674b2140cf7f706f1a60ea46"
+    },
+    {
+      "path": "Assets/Pinebend/Network/RaceReplication.cs",
+      "bytes": 3367,
+      "modifiedUtc": "2026-11-05T04:27:39.864Z",
+      "sha256": "448dae779406ac748a352b9cab30c489e87f9b9a1e00613a5558588c7adcb0ec"
+    },
+    {
+      "path": "Assets/Pinebend/Network/RaceReplication.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T04:09:32.319Z",
+      "sha256": "fb9b7c49e2f98daab5dde53b98c23f641ea8f422ba47f7528296978c69f9565c"
+    },
+    {
+      "path": "Assets/Pinebend/Network/ReplicatedProp.cs",
+      "bytes": 710,
+      "modifiedUtc": "2026-11-05T04:09:31.704Z",
+      "sha256": "1ca6ea0f532d97e9dab5df2f903ae0328e54029ebf355296296b0a0b3729206d"
+    },
+    {
+      "path": "Assets/Pinebend/Network/ReplicatedProp.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T04:09:32.319Z",
+      "sha256": "9a55399de1f537c2d4c111a640fe7d9cf0c85c5a1287daa791f707603c209fec"
+    },
+    {
+      "path": "Assets/Pinebend/OilSpill.cs",
+      "bytes": 3076,
+      "modifiedUtc": "2026-11-05T04:09:32.041Z",
+      "sha256": "cf751af7dc61f999168dd85612ba35f059dc83ef7889a3888c3cf4c53c90595e"
+    },
+    {
+      "path": "Assets/Pinebend/OilSpill.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:26:56.425Z",
+      "sha256": "e034a14ac505e6969a893ae86611032533c205f9e9c70042446aefd7b36dc514"
+    },
+    {
+      "path": "Assets/Pinebend/Pinebend.unity",
+      "bytes": 1495234,
+      "modifiedUtc": "2026-11-05T03:03:40.320Z",
+      "sha256": "ac5121f9d7fb71b6d602294da80e35a40e8a886164a89e28bfe1182ac602b208"
+    },
+    {
+      "path": "Assets/Pinebend/Pinebend.unity.meta",
+      "bytes": 155,
+      "modifiedUtc": "2026-11-05T01:30:44.568Z",
+      "sha256": "779297fc027397795de9b4fbf4a1a92233b04e84fede70363a99d450b0e87930"
+    },
+    {
+      "path": "Assets/Pinebend/RaceStartSequence.cs",
+      "bytes": 7704,
+      "modifiedUtc": "2026-11-05T04:08:31.191Z",
+      "sha256": "129b36eb61bdcd3595e588090a13b0704b58219c45654e9cf76195a7f5d18426"
+    },
+    {
+      "path": "Assets/Pinebend/RaceStartSequence.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:40:12.228Z",
+      "sha256": "429ba49f145b400cde208d3b8bbca4099ecaecbe6044f92680f0e698de9ec400"
+    },
+    {
+      "path": "Assets/Pinebend/RallyAmmoPickup.cs",
+      "bytes": 1449,
+      "modifiedUtc": "2026-11-05T04:08:31.191Z",
+      "sha256": "bd993717a78221deee81508ac9ecff85e7347de45db1dc1a848d1dacc0430a3c"
+    },
+    {
+      "path": "Assets/Pinebend/RallyAmmoPickup.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:48:48.868Z",
+      "sha256": "7c802ce8e4f0711cf543a1703c7c0edf65cd4f390cf855590ddf3ec2d0f9a070"
+    },
+    {
+      "path": "Assets/Pinebend/RallyBot.cs",
+      "bytes": 8385,
+      "modifiedUtc": "2026-11-05T05:05:19.495Z",
+      "sha256": "b4e606347efcccef0b706e24a52b155a54c7be1b5346fba677dd3cd6eee04b61"
+    },
+    {
+      "path": "Assets/Pinebend/RallyBot.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:53:42.673Z",
+      "sha256": "a7bad4bedf54803b5fd32c8aa39c2db112266c3137bfef2f7dd950f14f3e441f"
+    },
+    {
+      "path": "Assets/Pinebend/RallyCarModel.cs",
+      "bytes": 1416,
+      "modifiedUtc": "2026-11-05T02:45:40.221Z",
+      "sha256": "fd824eff1e18a62070c38da7c5587f7e293773c70cce569885d3bc54561b63f5"
+    },
+    {
+      "path": "Assets/Pinebend/RallyCarModel.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:44:52.691Z",
+      "sha256": "4827f0d8e6b5d224979850f4882aa56fdd5816d6a1ae675cadccd6b02a136123"
+    },
+    {
+      "path": "Assets/Pinebend/RallyDust.cs",
+      "bytes": 2182,
+      "modifiedUtc": "2026-11-05T01:39:29.046Z",
+      "sha256": "9b48cf23a8e76fb2e5f0a68be339875541fdd055f96f44a750f79d3c2ac231c3"
+    },
+    {
+      "path": "Assets/Pinebend/RallyDust.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:40:12.985Z",
+      "sha256": "80f9d27756fc4a24137aa3f2245265085b2c1f07be8f25ae50eae94122c9e820"
+    },
+    {
+      "path": "Assets/Pinebend/RallyHud.cs",
+      "bytes": 6775,
+      "modifiedUtc": "2026-11-05T03:40:11.984Z",
+      "sha256": "100b88051c74d97778a14160a6f2e5921b381aa28a923ea3c018b2c160399f16"
+    },
+    {
+      "path": "Assets/Pinebend/RallyHud.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:40:12.985Z",
+      "sha256": "894ba795db491988235e724b5cf7ad61fc2fc64d67e555b7a2aa216d6a87edee"
+    },
+    {
+      "path": "Assets/Pinebend/RallyRoad.cs",
+      "bytes": 12766,
+      "modifiedUtc": "2026-11-05T04:09:32.041Z",
+      "sha256": "1f0d58545b44dc8196892d99c24216d72d5ae338f48aa3341ad4872bdef9ca5e"
+    },
+    {
+      "path": "Assets/Pinebend/RallyRoad.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:06:49.214Z",
+      "sha256": "cf86a2dc57464d9d0420136b0380af8e8995a2cc2041edea0804ec2e06edd53b"
+    },
+    {
+      "path": "Assets/Pinebend/RallyWeaponInput.cs",
+      "bytes": 2061,
+      "modifiedUtc": "2026-11-05T04:09:32.043Z",
+      "sha256": "c9e3dd67898da68daf30589e1320a810e3f7809d2f48d662355a6c9f091587c7"
+    },
+    {
+      "path": "Assets/Pinebend/RallyWeaponInput.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:48:48.868Z",
+      "sha256": "db065515f4604139fa392b2434c21ba524016b03cc7fc818f7b998efbcfe1a29"
+    },
+    {
+      "path": "Assets/Pinebend/RallyWeapons.cs",
+      "bytes": 21594,
+      "modifiedUtc": "2026-11-05T04:44:47.285Z",
+      "sha256": "26019a41c51ff4b11cf860a13eff35d69b60692d889c98485b26e709b3d2f9e4"
+    },
+    {
+      "path": "Assets/Pinebend/RallyWeapons.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:48:48.868Z",
+      "sha256": "71649e60cb014bc51f4b3f176fdf742a0536f49622627fccd0d3e1d9be8c37c1"
+    },
+    {
+      "path": "Assets/Pinebend/Resources.meta",
+      "bytes": 172,
+      "modifiedUtc": "2026-11-05T04:28:41.963Z",
+      "sha256": "07c167ad72813cf9762889c6f379c5acc5a75bf512624bfb9bb11b3ac51cae62"
+    },
+    {
+      "path": "Assets/Pinebend/Resources/GameplayBalance.asset",
+      "bytes": 599,
+      "modifiedUtc": "2026-11-05T04:28:41.982Z",
+      "sha256": "647ae7f2409032f11e8a3144c555e7a0acfddf889267d286097ac905aa0e97f8"
+    },
+    {
+      "path": "Assets/Pinebend/Resources/GameplayBalance.asset.meta",
+      "bytes": 189,
+      "modifiedUtc": "2026-11-05T04:28:41.984Z",
+      "sha256": "3f2463c9f1018b608e4be5c0030c6aa7e63714c6b7f79d9d001818b5d1129b6e"
+    },
+    {
+      "path": "Assets/Pinebend/StartingGrid.cs",
+      "bytes": 4405,
+      "modifiedUtc": "2026-11-05T03:39:40.984Z",
+      "sha256": "ea30dc562726bc0086e7d5c444307f08b51319b30a22ded6bdc90c8c5df19fda"
+    },
+    {
+      "path": "Assets/Pinebend/StartingGrid.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:40:12.228Z",
+      "sha256": "fe87b08c5fb1eb9ef4c3dfcc99f941966565978a1cbebb59bca495bcc3370c48"
+    },
+    {
+      "path": "Assets/Pinebend/TestCar.cs",
+      "bytes": 21583,
+      "modifiedUtc": "2026-11-05T05:05:19.495Z",
+      "sha256": "e9d975a0e916bd0a6408cbbbab13e6ba087741294974e9f4a01bf4659ec9b627"
+    },
+    {
+      "path": "Assets/Pinebend/TestCar.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:30:13.179Z",
+      "sha256": "1bb5b9dbc6a6b206a498d69c40373f8faac0beb85ab6c5adcb30565225b1726e"
+    },
+    {
+      "path": "Assets/Pinebend/TimingGate.cs",
+      "bytes": 243,
+      "modifiedUtc": "2026-11-05T01:28:42.757Z",
+      "sha256": "99c3a273a10bd2867de79bdece7e993cd6f68c0818de910e7fa0b227e755eea5"
+    },
+    {
+      "path": "Assets/Pinebend/TimingGate.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T01:30:13.179Z",
+      "sha256": "6ba4332a7b733bf1cab57b2eca242fd75efd8e3af0f1f0c2184f9d4aa2095e43"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks.meta",
+      "bytes": 172,
+      "modifiedUtc": "2026-11-05T02:34:01.069Z",
+      "sha256": "72e3adf465d6faf7fe93689b6873a98e4aa181a8da97ec9f6abc8e79903496fd"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/CircuitGenerator.cs",
+      "bytes": 5994,
+      "modifiedUtc": "2026-11-05T03:26:00.219Z",
+      "sha256": "7d02103bdcac30e7199e8eef9b2f2ae938cc7d69961819dfb6a85cf667883ecd"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/CircuitGenerator.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:12:18.803Z",
+      "sha256": "a7ff853a0ef2917eb7243057b9350bbcaf0a839c79dc672fcea66a78f3f4dab1"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/CircuitJunction.cs",
+      "bytes": 3278,
+      "modifiedUtc": "2026-11-05T03:25:09.721Z",
+      "sha256": "6df21174229933a1b164c08196ae436a452956ba83aecd710c4b68cdfffc883a"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/CircuitJunction.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T03:26:56.425Z",
+      "sha256": "5780dbb79a8b8810c3b26834db5eb6e71b5cb8c6adf29278c3714d17e79bb3f1"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/MainMenu.cs",
+      "bytes": 8188,
+      "modifiedUtc": "2026-11-05T04:08:31.193Z",
+      "sha256": "8a217ef6f56c7fed58313322401df921fb20a1afad2862a53ddcca8d68080f0b"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/MainMenu.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:33:59.972Z",
+      "sha256": "1e730f735d9a08b78c9c46826c84e83ce3fa8bc79a73c8bd99689f75abc4671e"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/RaceSession.cs",
+      "bytes": 4807,
+      "modifiedUtc": "2026-11-05T03:43:06.371Z",
+      "sha256": "4cefe7c3a5abea204e54f34b048410d83bd9907b28d17545d918f9ee9a81f127"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/RaceSession.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:33:59.972Z",
+      "sha256": "951249aeb15408b6b0005bf96b6b4520d04a152fa052da9244782b440819f037"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/TrackRecipe.cs",
+      "bytes": 3951,
+      "modifiedUtc": "2026-11-05T03:26:00.219Z",
+      "sha256": "12a2884bc8ee8fd18bc8850fd8d64387bd991b5cbe55ff2009a8f3dc101b1e70"
+    },
+    {
+      "path": "Assets/Pinebend/Tracks/TrackRecipe.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:33:59.972Z",
+      "sha256": "46b8d79deb0c2fd8abaea413feb017cee30689580b8705addba641c5a4b7be35"
+    },
+    {
+      "path": "Assets/Pinebend/WreckSmoke.cs",
+      "bytes": 2378,
+      "modifiedUtc": "2026-11-05T04:09:32.041Z",
+      "sha256": "34baa838eb101c12ed1de8dbf97a2b59d0fda49dfa89426ba04cf965046e45a3"
+    },
+    {
+      "path": "Assets/Pinebend/WreckSmoke.cs.meta",
+      "bytes": 59,
+      "modifiedUtc": "2026-11-05T02:06:49.214Z",
+      "sha256": "1adb082c5153d1867a76edd41e127a04b9e8aca6dd609e766c1a77dd1f8930bf"
+    },
+    {
+      "path": "Docs/Car-Models.md",
+      "bytes": 1462,
+      "modifiedUtc": "2026-11-05T04:45:00.892Z",
+      "sha256": "b98fff78705a163af4f1805caa4c90083377fedc53639962e4bc9588c218534b"
+    },
+    {
+      "path": "Docs/Friend-Playtest.md",
+      "bytes": 8923,
+      "modifiedUtc": "2026-11-05T04:45:00.897Z",
+      "sha256": "07fddbbbf2aefcd4061e1a90d6356ccf04bc92151c304d253f169dffee179825"
+    },
+    {
+      "path": "PINEBEND.md",
+      "bytes": 8687,
+      "modifiedUtc": "2026-11-05T05:06:51.474Z",
+      "sha256": "ea0f7b956682b4f51ea3a91ea85d159e00f9e6b9fd8c4724bb6bac1ee4151b4b"
+    },
+    {
+      "path": "Packages/manifest.json",
+      "bytes": 2046,
+      "modifiedUtc": "2026-11-05T01:12:35.058Z",
+      "sha256": "a24e4f1f1bb54b01cf714610d46acd217b0408df8b06f866d04a76eafaec892e"
+    },
+    {
+      "path": "Packages/packages-lock.json",
+      "bytes": 13953,
+      "modifiedUtc": "2026-11-05T01:13:08.402Z",
+      "sha256": "85a86d7e400938fd22843b9f39f3057c611edcde9e2c39496ceeec2c0be54f64"
+    },
+    {
+      "path": "ProjectSettings/AudioManager.asset",
+      "bytes": 413,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "aeedeb3243f07b61dbbe854aa08b5ef6f0b5274dd9852ad9f6129dde3e105a31"
+    },
+    {
+      "path": "ProjectSettings/ClusterInputManager.asset",
+      "bytes": 114,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "40e65dd214bf254955d2c8829ca8ce2130fd3510485560ce012e9a1ddd93e623"
+    },
+    {
+      "path": "ProjectSettings/DynamicsManager.asset",
+      "bytes": 1587,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "bf017b547bb77ce3443dd5287ddf2516a74fd167f4f2ee5d798340694f51776d"
+    },
+    {
+      "path": "ProjectSettings/EditorBuildSettings.asset",
+      "bytes": 562,
+      "modifiedUtc": "2026-11-05T02:34:35.293Z",
+      "sha256": "7f71c8d82c0e53505a0b5d6de0d18bc746f0a5d8a7ae8c488eda8c76c8a91ce7"
+    },
+    {
+      "path": "ProjectSettings/EditorSettings.asset",
+      "bytes": 1673,
+      "modifiedUtc": "2026-11-05T01:14:51.134Z",
+      "sha256": "183b4aee63306b05ec64ee1a066e6afd467004c0d755e4e37b693718eb838d51"
+    },
+    {
+      "path": "ProjectSettings/GraphicsSettings.asset",
+      "bytes": 2951,
+      "modifiedUtc": "2026-11-05T01:30:59.540Z",
+      "sha256": "d1288ed712c51a6803de0b43556ca13a1b418835de68e806846a8fc0c608e03a"
+    },
+    {
+      "path": "ProjectSettings/InputManager.asset",
+      "bytes": 9731,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "7a1bb836a1008d26d0860d143e9d9df7ca41731d30a72901b518063819c62df2"
+    },
+    {
+      "path": "ProjectSettings/MemorySettings.asset",
+      "bytes": 1192,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "1e8379a461b10ae09f3f696911088c16875d63e87ed5f2d95df9e1892703f9fd"
+    },
+    {
+      "path": "ProjectSettings/MultiplayerManager.asset",
+      "bytes": 157,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "aba89fd1a1ddad182727ad82727e536d27372e90328a8196da2a4560398983dd"
+    },
+    {
+      "path": "ProjectSettings/NavMeshAreas.asset",
+      "bytes": 1308,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "80106cfa7e6181a1928b142c075f3e510d527441e3d79bc83590e4ac91e7cd66"
+    },
+    {
+      "path": "ProjectSettings/PackageManagerSettings.asset",
+      "bytes": 1157,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "f281d96e785df430d30ce0a515f4fe5c625ef44467125879f4b9f4cb087e1578"
+    },
+    {
+      "path": "ProjectSettings/Packages/com.unity.ai.assistant/Settings.json",
+      "bytes": 342,
+      "modifiedUtc": "2026-11-05T01:14:53.992Z",
+      "sha256": "54ba37aabe4a7d2663325e93f66f063c6dcfdcad92316cbaddbad55fcbcb5698"
+    },
+    {
+      "path": "ProjectSettings/Physics2DSettings.asset",
+      "bytes": 2028,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "d57a0fe55659c33879e8b70bc01c5ea9cdf082069dab649905c6c5138531e6eb"
+    },
+    {
+      "path": "ProjectSettings/PhysicsCoreProjectSettings2D.asset",
+      "bytes": 151,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "bedc5339a832c60dc3f11b84abc4f4384dbfa20b0cd9ad6c444b907e751fc35e"
+    },
+    {
+      "path": "ProjectSettings/PresetManager.asset",
+      "bytes": 146,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "29c125923fe6e29f90190d4fce1c82d660e7051546e2c9d02908d18c9cf2436c"
+    },
+    {
+      "path": "ProjectSettings/ProjectAuditorSettings.asset",
+      "bytes": 1036,
+      "modifiedUtc": "2026-11-05T01:13:59.619Z",
+      "sha256": "4071ebdd9bcf64a42402e7b284d62e29d6ddbea18549fdbe92ef78d1afc4f37a"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "bytes": 25281,
+      "modifiedUtc": "2026-11-05T04:30:30.405Z",
+      "sha256": "0679578a0b591e113f4ab8ec4f47c1583ae59f3ad0f2f18e1a4fc5ff74ca04b7"
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "bytes": 83,
+      "modifiedUtc": "2026-11-05T01:14:01.645Z",
+      "sha256": "1eac9aed61309ea22f15b0324e5a6e73f2e45db08c90deb7ae4495a25f454664"
+    },
+    {
+      "path": "ProjectSettings/QualitySettings.asset",
+      "bytes": 3826,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "7fa3e21095b718cecea9e9befeb6d56aced5eca369a1c5844214fc3e1ed7f415"
+    },
+    {
+      "path": "ProjectSettings/SceneTemplateSettings.json",
+      "bytes": 3535,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "bb9098b3bfcde78d93e264b96f7b77b5430e64e8c57a7aad7f5a5d9c3945e16a"
+    },
+    {
+      "path": "ProjectSettings/ShaderGraphSettings.asset",
+      "bytes": 556,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "cdba1e5d65bcf6e3269d76ed3e60b6c21f98322002996642c9d74f1eb89f6b91"
+    },
+    {
+      "path": "ProjectSettings/Switch2PlayerSettings.asset",
+      "bytes": 2116,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "61be6f69426706b633a8f8340a11405ed8f9f8ec1d88b240540d6fd30ab7c26a"
+    },
+    {
+      "path": "ProjectSettings/TagManager.asset",
+      "bytes": 657,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "23fc56b484aa3d7edf5914cd3591f7a823ccef5e3f3496f8a51f30388ead63dc"
+    },
+    {
+      "path": "ProjectSettings/TimeManager.asset",
+      "bytes": 202,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "1a83e54adbbda7c9f4851103a0c6ab7f6448a3343d4ea5b7620452fa08416ecd"
+    },
+    {
+      "path": "ProjectSettings/URPProjectSettings.asset",
+      "bytes": 461,
+      "modifiedUtc": "2026-11-05T01:30:44.755Z",
+      "sha256": "c317fe22b9488785c0611f0642429922e5d324430d929bffb41648130f30c218"
+    },
+    {
+      "path": "ProjectSettings/UnityConnectSettings.asset",
+      "bytes": 1191,
+      "modifiedUtc": "2026-11-05T01:12:32.042Z",
+      "sha256": "7f2112b8c6ea0885dcc72b312c9726ffcd909f2e89d1eead61889274a4e5d1c0"
+    },
+    {
+      "path": "ProjectSettings/VFXManager.asset",
+      "bytes": 308,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "f066c6483919961332415ee64204f74fe52f38c02e82892eb02b7a5b2e381f0e"
+    },
+    {
+      "path": "ProjectSettings/VersionControlSettings.asset",
+      "bytes": 188,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "e7bda45bf7a394745fee1316e6c71fa676004d591ad1f3aa247fd3e4ceb86071"
+    },
+    {
+      "path": "ProjectSettings/XRSettings.asset",
+      "bytes": 158,
+      "modifiedUtc": "2026-10-01T14:37:39.000Z",
+      "sha256": "edd2beb4a2e388312b4b7da241aa51070434005d82c59363f1237dd2e567585f"
+    },
+    {
+      "path": "Tools/MultiplayerSetup/Connection.ps1",
+      "bytes": 5383,
+      "modifiedUtc": "2026-11-05T04:13:38.207Z",
+      "sha256": "7ee225ab5be618bf46163bfa98bc8030920c9be376be4d5e79b6d476ec157510"
+    },
+    {
+      "path": "Tools/MultiplayerSetup/Host-Setup.cmd",
+      "bytes": 124,
+      "modifiedUtc": "2026-11-05T04:13:38.207Z",
+      "sha256": "476d6cdf21b9601733298d12d9af5005fd58aa118d7bb4063eb1022e0a082eb1"
+    },
+    {
+      "path": "Tools/MultiplayerSetup/Install-VPN.cmd",
+      "bytes": 108,
+      "modifiedUtc": "2026-11-05T04:13:38.208Z",
+      "sha256": "d205c269db320eb0c5ce816bbc52ffd3d7b4e269046abdc470830adfae8b9d7c"
+    },
+    {
+      "path": "Tools/MultiplayerSetup/Join-Check.cmd",
+      "bytes": 105,
+      "modifiedUtc": "2026-11-05T04:13:38.208Z",
+      "sha256": "b0697d5855db256c70c18c410da36cea57d0388c0c017bef75e83eecc2c455f8"
+    },
+    {
+      "path": "Tools/Package-Playtest.ps1",
+      "bytes": 861,
+      "modifiedUtc": "2026-11-05T04:13:38.527Z",
+      "sha256": "b32fec824a96790739bc693b5e24301bd18a098e7b68e3ec72f5d432760ac9a4"
+    }
+  ],
+  "reports": [
+    {
+      "path": "Builds/Pinebend-build.txt",
+      "bytes": 54,
+      "modifiedUtc": "2026-11-05T05:06:37.164Z",
+      "sha256": "7c375beb8bac5397942d79ccc2c10959769ac66f533f17a094f6f78bb8835df6"
+    },
+    {
+      "path": "Builds/balance-check.txt",
+      "bytes": 262,
+      "modifiedUtc": "2026-11-05T04:45:07.575Z",
+      "sha256": "e8f8dba34f09ff84e177451929c6b56ad5d5617e3e2479963bfd03646e282d5c"
+    },
+    {
+      "path": "Builds/power-check.txt",
+      "bytes": 162,
+      "modifiedUtc": "2026-11-05T04:45:07.570Z",
+      "sha256": "6194cf6408c665d972b62ca43fd3a7497eb73ccb3020130ea2659881a5ecaa8b"
+    },
+    {
+      "path": "Builds/network-check.txt",
+      "bytes": 282,
+      "modifiedUtc": "2026-11-05T04:16:29.706Z",
+      "sha256": "5ec9160173415942bf13deb572d094730eee3fbef282cfb4fffec6166dc71970"
+    },
+    {
+      "path": "Builds/layout-check.txt",
+      "bytes": 148,
+      "modifiedUtc": "2026-11-05T03:31:27.928Z",
+      "sha256": "fd9e3f984a64bd0f0c21366acfe38d5cfd1affca25194bfbfed313eba694a865"
+    },
+    {
+      "path": "Builds/grid-check.txt",
+      "bytes": 217,
+      "modifiedUtc": "2026-11-05T03:42:26.986Z",
+      "sha256": "a744d1b57bbb3a6ab284242b08049f67dc774e1204367afc41b5da17b1bb6043"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "Builds/Pinebend-Windows-Playtest.zip",
+      "bytes": 65178502,
+      "modifiedUtc": "2026-11-05T05:06:51.421Z",
+      "sha256": "99ea883c4b55200e617436b83b936d902585d9327a3f2d3cb2a2769a98227821"
+    },
+    {
+      "path": "Builds/Pinebend/Pinebend.exe",
+      "bytes": 667136,
+      "modifiedUtc": "2026-11-05T01:33:00.594Z",
+      "sha256": "8060790b33cf3ca520e289bf961094e2ed5473c7fad5d6148d8489e96055d27b"
+    }
+  ]
+}

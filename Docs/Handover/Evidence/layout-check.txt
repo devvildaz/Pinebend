@@ -1,0 +1,1 @@
+256 loops, 64 level intersections; maximum height mismatch 0.00000 m. Junction clipping/area/winding checked. Recipe JSON round trips deterministic.

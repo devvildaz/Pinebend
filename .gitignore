@@ -1,0 +1,42 @@
+# Unity generated data and caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity-generated IDE/project files
+/*.csproj
+/*.sln
+/*.slnx
+/*.user
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+/.vs/
+
+# IDE/editor user state
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+*.suo
+*.userprefs
+*.tmp
+*.swp
+
+# OS noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity Asset Store tooling cache
+Assets/AssetStoreTools*

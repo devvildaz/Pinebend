@@ -1,0 +1,1 @@
+256 eight-car grids: no overlapping reservations, minimum center separation 5.20 m. Obstruction fallback, deterministic assignment and fully blocked-grid failure checked in edit mode. No gameplay simulation performed.
